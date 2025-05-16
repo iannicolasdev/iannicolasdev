@@ -16,7 +16,7 @@ Estudante de Ciência da Computação, tenho grande interesse por programação 
 <!-- - LinkedIn: [linkedin.com/in/ian-nicolas-dev](https://linkedin.com/in/ian-nicolas-dev)
 - Email: nicolasian002@gmail.com -->
 
-<div align="center">
+<div align="left">
 <a href="https://github.com/iannicolasdev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -27,4 +27,4 @@ Estudante de Ciência da Computação, tenho grande interesse por programação 
 
 <br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iannicolasdev&hide_border=true&layout=compact" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iannicolasdev&hide_border=true&layout=compact" align="center" /></div>  
