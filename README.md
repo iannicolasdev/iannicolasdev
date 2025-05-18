@@ -1,7 +1,5 @@
 # Olá, me chamo Ian!
 
-Estudante de Ciência da Computação, tenho grande interesse por programação e estou em busca de oportunidades para crescer como desenvolvedor.
-
 ## Tecnologias que estou aprendendo:
 
 <p align="left">
