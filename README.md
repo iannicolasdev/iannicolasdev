@@ -1,4 +1,8 @@
-# Hi, I'm Ian! 👋
+# Hi, I'm Ian! 
+
+## About me 
+
+I'm a computer science student currently focused on improving my Python skills. I'm actively working on personal projects and am always open to collaborating and learning more about technology.
 
 ## Tools & Technologies
 
