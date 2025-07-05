@@ -2,7 +2,7 @@
 
 ## About me 
 
-I'm a computer science student currently focused on improving my Python skills. I'm actively working on personal projects and am always open to collaborating and learning more about technology.
+I'm a Computer Science student passionate about solving problems through technology. I'm currently focused on developing practical skills through personal projects, and I'm always open to learning, collaborating, and exploring new tools and technologies.
 
 ## Tools & Technologies
 
