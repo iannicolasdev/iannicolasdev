@@ -25,3 +25,8 @@ I'm a Computer Science student passionate about solving problems through technol
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iannicolasdev&layout=compact&theme=github_dark" />
 </div>
 
+<!--
+Lembrar de atualizar readme
+Lembrar de organizar repositórios
+-->
+
