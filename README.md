@@ -4,7 +4,7 @@
 
 I'm a Computer Science student passionate about solving problems through technology. I'm currently focused on developing practical skills through personal projects, and I'm always open to learning, collaborating, and exploring new tools and technologies.
 
-## Tools 
+## Tools & Technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
@@ -25,9 +25,3 @@ I'm a Computer Science student passionate about solving problems through technol
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iannicolasdev&layout=compact&theme=github_dark" />
 </div>
-
-<!--
-Lembrar de atualizar readme
-Lembrar de organizar repositórios
--->
-
